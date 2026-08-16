@@ -1,4 +1,4 @@
-# Brain Tumor Detection using Deep Learning (VAGG Model)
+# Brain Tumor Detection using Deep Learning (VGG16 Model)
 
 ## Overview
 
