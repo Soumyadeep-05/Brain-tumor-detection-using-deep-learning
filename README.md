@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project presents a deep learning-based solution for automatic brain tumor detection and classification from MRI images using a custom VAGG Convolutional Neural Network (CNN) architecture. The tool aims to assist healthcare professionals in early tumor diagnosis, reduce manual errors, and accelerate workflow efficiency. With high classification accuracy, visual explanations, and flexible deployment, the system is designed to support real-time clinical applications and research.
+This project presents a deep learning-based solution for automatic brain tumor detection and classification from MRI images using a custom VGG16 Convolutional Neural Network (CNN) architecture. The tool aims to assist healthcare professionals in early tumor diagnosis, reduce manual errors, and accelerate workflow efficiency. With high classification accuracy, visual explanations, and flexible deployment, the system is designed to support real-time clinical applications and research.
 
 ## Features
 
-- *VAGG CNN Architecture*
+- *VGG16 CNN Architecture*
   - Custom-built VAGG model enables robust, accurate brain tumor classification from MRI scans.
 - *Data Preprocessing & Augmentation*
   - Automated image preprocessing and data augmentation for improved model generalization and handling of diverse MRI datasets.
